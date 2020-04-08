@@ -231,6 +231,6 @@ sitemap:
 # branch: master
 deploy:
   type: git
-  repository: https://github.com/huweihuang/hexo-theme-huweihuang
+  repository: https://github.com/China-zhwh/hexo-china_zhwh.git
   branch: gh-pages
   message: Update CNAME
